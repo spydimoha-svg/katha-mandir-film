@@ -25,8 +25,13 @@ git clone https://github.com/spydimoha-svg/katha-mandir-film "$env:USERPROFILE\.
 python -m pip install -r "$env:USERPROFILE\.claude\skills\katha-mandir-film\requirements.txt"
 ```
 
-The first clone opens a browser to sign in to GitHub. Then restart Claude
-Code and type `/katha-mandir-film` to confirm it is listed.
+Then restart Claude Code and type `/katha-mandir-film` to confirm it is
+listed.
+
+No Git? Use the green **Code** button on this page, then **Download ZIP**.
+Unzip it, rename the folder to `katha-mandir-film`, and move it into
+`%USERPROFILE%\.claude\skills\`. You will have to repeat that for every
+update, which is why cloning is better.
 
 ## Update
 
