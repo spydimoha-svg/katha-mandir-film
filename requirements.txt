@@ -1,0 +1,7 @@
+imageio-ffmpeg
+opencv-python-headless
+numpy
+scipy
+pillow
+fonttools
+python-docx
